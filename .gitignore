@@ -19,4 +19,4 @@ target/
 *.iml
 *.ipr
 **/application.properties
-
+**/constants
